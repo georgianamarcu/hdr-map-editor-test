@@ -31,6 +31,7 @@ export function Model(props) {
         geometry={nodes.DiningSet1003_Baked.geometry}
         material={materials["DiningSet1.003_Baked"]}
         position={[0.06917, 0.001885, -0.028166]}
+        material-toneMapped={false}
       />
       <mesh
         geometry={nodes.Plate_Baked.geometry}
@@ -42,6 +43,7 @@ export function Model(props) {
         material={materials["DiningSet1.004_Baked"]}
         position={[0.171198, 0.02906, 0.079172]}
         rotation={[-0.213446, 0.779834, 0.151244]}
+        material-toneMapped={false}
       />
       <mesh
         geometry={nodes.DiningSet1006.geometry}
@@ -55,12 +57,14 @@ export function Model(props) {
         material={materials["DiningSet1.007_Baked"]}
         position={[0.185698, 0.036265, 0.072653]}
         rotation={[-0.150579, 0.808857, 1.471274]}
+        material-toneMapped={false}
       />
       <mesh
         geometry={nodes.DiningSet1008_Baked.geometry}
         material={materials["DiningSet1.008_Baked"]}
         position={[0.020273, 0.049806, -0.212324]}
         rotation={[-0.649405, 1.079691, 0.614233]}
+        material-toneMapped={false}
       />
       <mesh
         geometry={nodes.DiningSet1009.geometry}
@@ -73,6 +77,7 @@ export function Model(props) {
         material={materials.DiningSet1_Baked}
         position={[-0.137385, 0.00017, -0.0542]}
         rotation={[Math.PI / 2, 0, -0.121372]}
+        material-toneMapped={false}
       />
     </group>
   );
