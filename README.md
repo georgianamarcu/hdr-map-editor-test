@@ -8,4 +8,6 @@
 
 ## The map used in the scene
 
+* Yes, the plate changed because it was abusing the number of vertices :))
+
 ![Preview](https://res.cloudinary.com/dpwjzdw4u/image/upload/v1688509961/Screenshot_2023-07-05_at_00.31.42_peidai.png)
